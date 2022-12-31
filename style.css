@@ -1,0 +1,197 @@
+#all{
+    /* margin-left: 200px; */
+    width: 1320px;
+  
+}
+#nav{
+    position: fixed;
+    display: block;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 9999;
+}
+#apple{
+    height: 20px;
+    display: inline-block;
+    margin-left: 100px;
+    
+}
+#apple:hover{
+    background-color: white;
+}
+#store,#mac,#ipad,#iphone,#watch,#airpods,#tv,#only,#acc,#support{
+    font-size: 14px;
+    margin-top: 3px;
+    padding-left: 10px ;
+    
+}
+
+h5{
+    text-align: center;
+    margin-top: 100;
+}
+#s{
+    text-align: left;
+    width: auto;
+    padding-left: 50px;
+    margin-left: 40px;
+    margin-top: 100px;
+    font-weight: 700;
+    font-size:48px;
+   
+    
+}
+#h{
+    margin-top: 100;
+}
+
+#text{
+    color: grey;
+}
+
+#line{
+    width: 800px;
+    
+}
+.card{
+    text-align: center;
+}
+.image{
+    margin-top: 100px;
+    text-size-adjust: 100%;
+    text-align: center;
+    display: inline-block;
+    position:relative;
+    padding-left: 60px;
+    height: 50px;
+    object-fit: cover;
+    text-size-adjust: 100%;
+    
+}
+
+.im{
+    width: 120px;
+}
+#s2{
+    text-align: left;
+    width: auto;
+    padding-left: 50px;
+    margin-left: 40px;
+    margin-top: 100px;
+    font-weight: 700;
+    font-size:28px;
+}
+#text2{
+    color: grey;
+    
+}
+.card{
+    
+    
+    text-size-adjust: 100%;
+    text-align: center;
+    display: inline-flex;
+    position:relative;
+    padding-left: 60px;
+    height: 450px;
+    object-fit: cover;
+    text-align: center;
+    
+    
+}
+#ipadcard{
+    border-radius: 20px;
+    height: 400px;
+}
+.card:hover{
+    transform: translateY(-10px);
+   
+    
+}
+.m{
+    color: black;
+    font-weight: bold;
+}
+.m:hover{
+    color: black;
+}
+#hom{
+    width: 1343px;
+    height: 450px;
+    text-size-adjust: 100%;
+    position: absolute;
+    
+}
+#ho{
+
+    width: 1343px;
+    height: 624px;
+    position: relative;
+    top: 30px;
+    
+}
+#ho img{
+    left: 0px;
+    position: absolute;
+    margin-top: 35px;
+    
+}
+#ho h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+#ho h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+}
+#ho #bt{ 
+  border-radius: 20px;
+  margin-left: 45%;
+  margin-top: 5px;
+  font-weight: lighter;
+  color: grey;
+  
+  border: 1px solid grey;
+}
+
+#hoi{
+    width: 1343px;
+    height: 450px;
+    position: relative;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+#hoi img{
+    left: 0px;
+    position: absolute;
+    margin-top: 35px;
+    
+}
+#hoi h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    padding-top: 10px;
+    
+    
+}
+#hoi h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+}
+#hoi #bt{ 
+  border-radius: 20px;
+  margin-left: 45%;
+  margin-top: 5px;
+  font-weight: lighter;
+  color: grey;
+  background-color: black;
+  border: 1px solid grey;
+}
