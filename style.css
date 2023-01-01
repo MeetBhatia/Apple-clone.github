@@ -130,6 +130,7 @@ h5{
     position: relative;
     top: 30px;
     
+    
 }
 #ho img{
     left: 0px;
@@ -194,4 +195,76 @@ h5{
   color: grey;
   background-color: black;
   border: 1px solid grey;
+}
+
+#hoipad{
+    
+    width: 50%;
+    height: 624px;
+    position: relative;
+    top: 30px;
+    margin-top: 180px;
+    
+}
+
+#hoipad img{
+    left: 0px;
+    position: absolute;
+    margin-top: 35px;
+    width: 671.500px;
+    
+}
+#hoipad h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+#hoipad h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+}
+
+#hoipadpro{
+    
+    width: 50%;
+    height: 624px;
+    position: relative;
+    top: 30px;
+    margin-top: 190px;
+    background-color: black;
+    color: white;
+    
+}
+
+#hoipadpro img{
+    left: 0px;
+    position: absolute;
+    margin-top: 35px;
+    width: 671.500px;
+    z-index: 3;
+    direction: ltr;
+}
+#hoipadpro h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+#hoipadpro h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+}
+
+#both{
+    position: relative;
+    display: flex;
+}
+
+#m2{
+position: relative;
+margin-left: 68%;
+margin-bottom: 90%;
+top: 8%;
+  
 }
