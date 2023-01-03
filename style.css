@@ -199,7 +199,7 @@ h5{
 
 #hoipad{
     
-    width: 50%;
+    width: 671px;
     height: 624px;
     position: relative;
     top: 30px;
@@ -227,7 +227,7 @@ h5{
 
 #hoipadpro{
     
-    width: 50%;
+    width: 671px;
     height: 624px;
     position: relative;
     top: 30px;
@@ -268,3 +268,155 @@ margin-bottom: 90%;
 top: 8%;
   
 }
+
+#mac2{
+    
+    width: 671px;
+    height: 624px;
+    position: relative;
+    top: 30px;
+    margin-top: 30px;
+    
+}
+
+#mac2 img{
+    left: 0px;
+    position: relative;
+    margin-top: 35px;
+    width: 671.500px;
+    
+}
+#mac2 h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+#mac2 h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+}
+
+#watch2{
+    
+    width: 671px;
+    height: 624px;
+    position: relative;
+    top: 30px;
+    margin-top: 30px;
+   
+   
+}
+
+#watch2 img{
+    left: 0px;
+    position: relative;
+    margin-top: 35px;
+    width: 671.500px;
+    
+    
+}
+#watch2 h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+#watch2 h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+}
+#watch2 h4{
+    text-align: center;
+    color: rgb(255, 115, 0);
+    font-weight: 550;
+}
+
+
+#both2{
+    position: relative;
+    display: flex;
+}
+
+#m{
+    
+    background-color: black;
+color: white;
+font-size:15px;
+padding: 5px;
+
+}
+
+#watch8{
+    
+    width: 671px;
+    height: 624px;
+    position: relative;
+    top: 30px;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    
+}
+
+#watch8 img{
+    left: 0px;
+    position: relative;
+    margin-top: 35px;
+    width: 671.500px;
+    
+    
+}
+#watch8 h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+#watch8 h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+}
+#watch8 h4{
+    text-align: center;
+    color: rgb(255, 0, 0);
+  
+}
+#air{
+    
+    width: 671px;
+    height: 624px;
+    position: relative;
+    top: 30px;
+    margin-top: 30px;
+   
+   
+}
+
+#air img{
+    left: 0px;
+    position: relative;
+    margin-top: 35px;
+    width: 671.500px;
+    
+    
+}
+#air h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    
+}
+#air h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+}
+
+
+
+#both3{
+    position: relative;
+    display: flex;
+}
+
